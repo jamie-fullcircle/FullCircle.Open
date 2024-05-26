@@ -1,0 +1,14 @@
+/Users/jamie.sellick/projects/FullCircle/Scratch/bin/Debug/net8.0/Scratch
+/Users/jamie.sellick/projects/FullCircle/Scratch/bin/Debug/net8.0/Scratch.deps.json
+/Users/jamie.sellick/projects/FullCircle/Scratch/bin/Debug/net8.0/Scratch.runtimeconfig.json
+/Users/jamie.sellick/projects/FullCircle/Scratch/bin/Debug/net8.0/Scratch.dll
+/Users/jamie.sellick/projects/FullCircle/Scratch/bin/Debug/net8.0/Scratch.pdb
+/Users/jamie.sellick/projects/FullCircle/Scratch/obj/Debug/net8.0/Scratch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamie.sellick/projects/FullCircle/Scratch/obj/Debug/net8.0/Scratch.AssemblyInfoInputs.cache
+/Users/jamie.sellick/projects/FullCircle/Scratch/obj/Debug/net8.0/Scratch.AssemblyInfo.cs
+/Users/jamie.sellick/projects/FullCircle/Scratch/obj/Debug/net8.0/Scratch.csproj.CoreCompileInputs.cache
+/Users/jamie.sellick/projects/FullCircle/Scratch/obj/Debug/net8.0/Scratch.dll
+/Users/jamie.sellick/projects/FullCircle/Scratch/obj/Debug/net8.0/refint/Scratch.dll
+/Users/jamie.sellick/projects/FullCircle/Scratch/obj/Debug/net8.0/Scratch.pdb
+/Users/jamie.sellick/projects/FullCircle/Scratch/obj/Debug/net8.0/Scratch.genruntimeconfig.cache
+/Users/jamie.sellick/projects/FullCircle/Scratch/obj/Debug/net8.0/ref/Scratch.dll

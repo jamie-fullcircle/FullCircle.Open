@@ -1,0 +1,29 @@
+﻿@using Microsoft.AspNetCore.Mvc.RazorPages
+@inherits LayoutComponentBase
+
+<div class="page">
+    <main>
+        <div class="top-row ps-3 navbar" style="height: 75px;">
+            <div class="container-fluid" style="padding-left:0;">
+                <div>
+                    <h1>Full Circle</h1>
+                    <h2>Bridging the gap between the promise and reality of reconciliation.</h2>
+                </div>
+                <div>
+                    <a class="navbar-brand" href="">
+                        <img src="favicon_io/favicon.ico" alt="home"/>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <article class="content px-4">
+            @Body
+        </article>
+    </main>
+</div>
+
+<div id="blazor-error-ui">
+    An unhandled error has occurred.
+    <a href="" class="reload">Reload</a>
+    <a class="dismiss">🗙</a>
+</div>

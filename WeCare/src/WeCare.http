@@ -1,0 +1,6 @@
+@WeCare_HostAddress = http://prodwecare.azurewebsites.net
+
+GET {{WeCare_HostAddress}}/
+Accept: application/json
+
+###

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xuMBg3ptvcsNpa7wn107OWTOz5VKbUgGCrO8bamRAVyoww/KgU14T8Sb6KcZ8dGybK4L9IiWG2FUZ/d/GRK1qw==",
+  "success": true,
+  "projectFilePath": "/Users/jamie.sellick/projects/FullCircle/Wall-e/Wall-e.csproj",
+  "expectedPackageFiles": [
+    "/Users/jamie.sellick/.nuget/packages/skiasharp/3.0.0-preview.3.1/skiasharp.3.0.0-preview.3.1.nupkg.sha512",
+    "/Users/jamie.sellick/.nuget/packages/skiasharp.nativeassets.macos/3.0.0-preview.3.1/skiasharp.nativeassets.macos.3.0.0-preview.3.1.nupkg.sha512",
+    "/Users/jamie.sellick/.nuget/packages/skiasharp.nativeassets.win32/3.0.0-preview.3.1/skiasharp.nativeassets.win32.3.0.0-preview.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

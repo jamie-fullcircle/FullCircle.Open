@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hJbRtf5utTvtF6pLBAqat6/d7D79dfNrtpsJSHXlfpmFtFoDuSA7Ajs/WNkF5l3XTDJfMHv1YnpSoKuJow18yQ==",
+  "success": true,
+  "projectFilePath": "/Users/jamie.sellick/projects/FullCircle/PaintByNumbers/PaintByNumbers.csproj",
+  "expectedPackageFiles": [
+    "/Users/jamie.sellick/.nuget/packages/system.drawing.common/9.0.0-preview.4.24267.1/system.drawing.common.9.0.0-preview.4.24267.1.nupkg.sha512"
+  ],
+  "logs": []
+}

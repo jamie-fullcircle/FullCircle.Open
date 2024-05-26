@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/jamie.sellick/projects/FullCircle/MarketingSite/obj/Debug/net8.0/scopedcss/projectbundle/MarketingSite.bundle.scp.css",
+      "PackagePath": "staticwebassets/MarketingSite.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/jamie.sellick/projects/FullCircle/MarketingSite/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/jamie.sellick/projects/FullCircle/MarketingSite/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/jamie.sellick/projects/FullCircle/MarketingSite/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/jamie.sellick/projects/FullCircle/MarketingSite/wwwroot/favicon_io/android-chrome-192x192.png",
+      "PackagePath": "staticwebassets/favicon_io/android-chrome-192x192.png"
+    },
+    {
+      "Id": "/Users/jamie.sellick/projects/FullCircle/MarketingSite/wwwroot/favicon_io/android-chrome-512x512.png",
+      "PackagePath": "staticwebassets/favicon_io/android-chrome-512x512.png"
+    },
+    {
+      "Id": "/Users/jamie.sellick/projects/FullCircle/MarketingSite/wwwroot/favicon_io/apple-touch-icon.png",
+      "PackagePath": "staticwebassets/favicon_io/apple-touch-icon.png"
+    },
+    {
+      "Id": "/Users/jamie.sellick/projects/FullCircle/MarketingSite/wwwroot/favicon_io/favicon-16x16.png",
+      "PackagePath": "staticwebassets/favicon_io/favicon-16x16.png"
+    },
+    {
+      "Id": "/Users/jamie.sellick/projects/FullCircle/MarketingSite/wwwroot/favicon_io/favicon-32x32.png",
+      "PackagePath": "staticwebassets/favicon_io/favicon-32x32.png"
+    },
+    {
+      "Id": "/Users/jamie.sellick/projects/FullCircle/MarketingSite/wwwroot/favicon_io/favicon.ico",
+      "PackagePath": "staticwebassets/favicon_io/favicon.ico"
+    },
+    {
+      "Id": "/Users/jamie.sellick/projects/FullCircle/MarketingSite/wwwroot/favicon_io/site.webmanifest",
+      "PackagePath": "staticwebassets/favicon_io/site.webmanifest"
+    },
+    {
+      "Id": "/Users/jamie.sellick/projects/FullCircle/MarketingSite/wwwroot/img/magnets.jpg",
+      "PackagePath": "staticwebassets/img/magnets.jpg"
+    },
+    {
+      "Id": "/Users/jamie.sellick/projects/FullCircle/MarketingSite/wwwroot/img/trail_closed.jpg",
+      "PackagePath": "staticwebassets/img/trail_closed.jpg"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.MarketingSite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.MarketingSite.props",
+      "PackagePath": "build\\MarketingSite.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MarketingSite.props",
+      "PackagePath": "buildMultiTargeting\\MarketingSite.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MarketingSite.props",
+      "PackagePath": "buildTransitive\\MarketingSite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
