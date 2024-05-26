@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1LlpcfWpthgBT4WeESoA9xqRsIHxNgbWpHfJ4AEcmpHVHTzG0c8vmGzcQgxyX2MxOB05wi9jgcc8N+iJVdUnSQ==",
+  "dgSpecHash": "p1w3pA29Iw09+EiM1iWQrrC4lnJAehzaXAZPKz7TUT9QoF1+p9LBv7eY2qAgqyWzw+/WUjF1oY0B97q69O4tXQ==",
   "success": true,
-  "projectFilePath": "/Users/jamie.sellick/projects/FullCircle/WeCare/WeCare.csproj",
+  "projectFilePath": "/Users/jamie.sellick/projects/full-circle/WeCare/WeCare.csproj",
   "expectedPackageFiles": [
     "/Users/jamie.sellick/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/Users/jamie.sellick/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",

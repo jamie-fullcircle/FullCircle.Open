@@ -1,6 +1,0 @@
-/Users/jamie.sellick/projects/FullCircle/PaintByNumbers/obj/Debug/netstandard2.1/PaintByNumbers.csproj.AssemblyReference.cache
-/Users/jamie.sellick/projects/FullCircle/PaintByNumbers/obj/Debug/netstandard2.1/PaintByNumbers.GeneratedMSBuildEditorConfig.editorconfig
-/Users/jamie.sellick/projects/FullCircle/PaintByNumbers/obj/Debug/netstandard2.1/PaintByNumbers.AssemblyInfoInputs.cache
-/Users/jamie.sellick/projects/FullCircle/PaintByNumbers/obj/Debug/netstandard2.1/PaintByNumbers.AssemblyInfo.cs
-/Users/jamie.sellick/projects/FullCircle/PaintByNumbers/obj/Debug/netstandard2.1/PaintByNumbers.csproj.CoreCompileInputs.cache
-/Users/jamie.sellick/projects/FullCircle/PaintByNumbers/obj/Debug/netstandard2.1/PaintByNumbers.sourcelink.json

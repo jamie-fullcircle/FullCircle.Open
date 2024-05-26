@@ -166,11 +166,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jamie.sellick/projects/FullCircle/Wall-e/Wall-e.csproj",
+      "projectUniqueName": "/Users/jamie.sellick/projects/full-circle/Wall-e/Wall-e.csproj",
       "projectName": "Wall-e",
-      "projectPath": "/Users/jamie.sellick/projects/FullCircle/Wall-e/Wall-e.csproj",
+      "projectPath": "/Users/jamie.sellick/projects/full-circle/Wall-e/Wall-e.csproj",
       "packagesPath": "/Users/jamie.sellick/.nuget/packages/",
-      "outputPath": "/Users/jamie.sellick/projects/FullCircle/Wall-e/obj/",
+      "outputPath": "/Users/jamie.sellick/projects/full-circle/Wall-e/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jamie.sellick/.nuget/NuGet/NuGet.Config"

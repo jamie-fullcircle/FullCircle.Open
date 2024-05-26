@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jamie.sellick/projects/FullCircle/MarketingSite/MarketingSite.csproj",
+      "projectUniqueName": "/Users/jamie.sellick/projects/full-circle/MarketingSite/MarketingSite.csproj",
       "projectName": "MarketingSite",
-      "projectPath": "/Users/jamie.sellick/projects/FullCircle/MarketingSite/MarketingSite.csproj",
+      "projectPath": "/Users/jamie.sellick/projects/full-circle/MarketingSite/MarketingSite.csproj",
       "packagesPath": "/Users/jamie.sellick/.nuget/packages/",
-      "outputPath": "/Users/jamie.sellick/projects/FullCircle/MarketingSite/obj/",
+      "outputPath": "/Users/jamie.sellick/projects/full-circle/MarketingSite/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jamie.sellick/.nuget/NuGet/NuGet.Config"

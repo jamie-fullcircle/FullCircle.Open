@@ -3692,11 +3692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jamie.sellick/projects/FullCircle/WeCare/WeCare.csproj",
+      "projectUniqueName": "/Users/jamie.sellick/projects/full-circle/WeCare/WeCare.csproj",
       "projectName": "WeCare",
-      "projectPath": "/Users/jamie.sellick/projects/FullCircle/WeCare/WeCare.csproj",
+      "projectPath": "/Users/jamie.sellick/projects/full-circle/WeCare/WeCare.csproj",
       "packagesPath": "/Users/jamie.sellick/.nuget/packages/",
-      "outputPath": "/Users/jamie.sellick/projects/FullCircle/WeCare/obj/",
+      "outputPath": "/Users/jamie.sellick/projects/full-circle/WeCare/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jamie.sellick/.nuget/NuGet/NuGet.Config"
